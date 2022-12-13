@@ -27,7 +27,7 @@ header h1 {
     font-family: 'Vampire', Impact, 'Arial Narrow Bold', sans-serif;
     text-decoration: normal;
     font-size: 40px;
-    color: #470000;
+    color: red;
 }
 
 header nav li {
@@ -42,7 +42,7 @@ section h3,
 form button{
     font-family: 'Vampire', Impact, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
-    color: #670303;
+    color: red;
 }
 
 header nav li a:hover {
@@ -104,6 +104,7 @@ section p {
     text-align: justify;
     padding-right: 16px;
     font-family: 'Russo One', sans-serif;
+    color: white;
 }
 
 .social-links img {
@@ -157,7 +158,7 @@ input:focus, textarea:focus {
 
 footer {
     background-color: #293439;
-    color: #2e0404;
+    color: red;
     font-family: 'Russo One', sans-serif;
     padding: 6px 0;
     font-size: 12px;
