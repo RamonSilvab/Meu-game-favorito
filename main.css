@@ -18,9 +18,11 @@ body {
 
 header {
     padding: 16px 0;
-    background-color: #3d4d54;
+    background-image: linear-gradient(to bottom, #778792,
+    #334A50);
     padding: 32px;
     box-shadow: 1px 4px 13px -1px rgba(0, 0, 0, 0.452);
+    text-shadow: 2px 2px 0px rgba(44, 44, 44, 0.534);
 }
 
 header h1 {
@@ -97,6 +99,11 @@ section {
 section h2 {
     margin: 40px 40% 80px 40%;
     padding: 0;
+    text-shadow: 2px 2px 0px rgba(44, 44, 44, 0.534);
+}
+
+section h3 {
+    text-shadow: 2px 2px 0px rgba(44, 44, 44, 0.534);
 }
 
 section p {
